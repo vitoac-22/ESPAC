@@ -4,3 +4,5 @@ DATA
 .Rproj.user
 EDA.r
 RESULTS
+EDA.ipynb
+.venv
